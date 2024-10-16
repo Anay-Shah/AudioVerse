@@ -1,6 +1,6 @@
 ﻿Name: Anay Shah
 
-MyAudio is an audio application designed to organize and manage various 
+AudioVerse is an audio application designed to organize and manage various 
 types of audio content, such as songs, audiobooks, and podcasts, all stored
 in a central library. Users can download audio files from a simulated online
 store to expand their collection. The app allows playback of content
